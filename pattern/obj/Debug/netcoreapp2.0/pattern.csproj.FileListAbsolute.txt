@@ -1,0 +1,11 @@
+c:\users\nixo\source\repos\pattern\pattern\bin\Debug\netcoreapp2.0\pattern.deps.json
+c:\users\nixo\source\repos\pattern\pattern\bin\Debug\netcoreapp2.0\pattern.runtimeconfig.json
+c:\users\nixo\source\repos\pattern\pattern\bin\Debug\netcoreapp2.0\pattern.runtimeconfig.dev.json
+c:\users\nixo\source\repos\pattern\pattern\bin\Debug\netcoreapp2.0\pattern.dll
+c:\users\nixo\source\repos\pattern\pattern\bin\Debug\netcoreapp2.0\pattern.pdb
+c:\users\nixo\source\repos\pattern\pattern\obj\Debug\netcoreapp2.0\pattern.csprojResolveAssemblyReference.cache
+c:\users\nixo\source\repos\pattern\pattern\obj\Debug\netcoreapp2.0\pattern.csproj.CoreCompileInputs.cache
+c:\users\nixo\source\repos\pattern\pattern\obj\Debug\netcoreapp2.0\pattern.AssemblyInfoInputs.cache
+c:\users\nixo\source\repos\pattern\pattern\obj\Debug\netcoreapp2.0\pattern.AssemblyInfo.cs
+c:\users\nixo\source\repos\pattern\pattern\obj\Debug\netcoreapp2.0\pattern.dll
+c:\users\nixo\source\repos\pattern\pattern\obj\Debug\netcoreapp2.0\pattern.pdb
